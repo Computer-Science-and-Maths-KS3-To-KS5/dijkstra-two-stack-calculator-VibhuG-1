@@ -11,5 +11,10 @@ When a someone inputs a arithmetic expression into a computer, it is usually inp
     1. Seperate out each term and store them.
 2. Evaluate the expression.
     1. Iterate through each term and apply the Two-stack Algorithm.
+    1. Be able to evaluate operators
+        1. "+" (add)
+        1. "-" (subtract)
+        1. "*" (multiply)
+        1. "/" (divide)
     1. Store the result.
 3. Output the result.
