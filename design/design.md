@@ -11,9 +11,9 @@ Pseudocode -
 
 Two stack algorithm - 
 
+'''
 expression <- input()
 terms <- expression.split(" ")
-
 ops <- Stack()
 operands <- Stack()
 
@@ -42,3 +42,4 @@ for term in terms
     endif
 
 ouput(operands.pop())
+'''
