@@ -5,4 +5,4 @@ The main data structure required for this algorithm is a stack which is a Last i
 
 The flowchart for the main algorithm is - 
 
-![image](/algorithm_flowchart.png)
+![image](./algorithm_flowchart.png)
